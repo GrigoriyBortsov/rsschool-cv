@@ -1,11 +1,13 @@
-hi
+Меня зовут Григорий Борцов.
 
-my name is grtigoriy borcov
+мой номер телефона:
 
-i am 13 years old 
+мой телеграм:
 
-i live in Montenegro
+Несмотря на возраст (мне 13 лет). Я занимаюсь прогромированием.
 
-i teach in montenegro school 
+Я знаю С++, JS, Python, Scratch.
 
-i now python and whant to now Java script
+занималься с преподователем по Python . Проходил курс по HTML & CSS.
+
+Уровень английскогокого B2.
